@@ -1,1 +1,25 @@
-# TinSocO
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"16",
+//link for server update
+"Url":"https://github.com/0803303712/vpn2023/raw/main/koko.zip" ,
+"Changelog":"พเดตไฟล์ไม่ได้หรือเชื่อมต่อ
+ไม่ได้
+กรุณาอัพเดทแอพให้เป็นเวอร์ชั่น
+ล่าสุด *
+รายละเอียดการอัพเดท (ล่าสุด)
+เพิ่มServer ใช้งานทั่วไป
+รองรับซิม DTAC TRUE
+เมื่อเห็นข้อความอัพเดท
+กรุณากด ตกลง เพื่ออัพเดท
+และรอจนกว่าจะอัพเดทเสร็จ
+",
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+  "-Demo"
+    ]
+    }
+
